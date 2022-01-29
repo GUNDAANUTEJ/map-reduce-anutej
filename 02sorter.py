@@ -1,5 +1,5 @@
 n = open("mapperOut01.txt","r")  # open file, read-only
-s = open("s.txt", "w") # open file, write
+s = open("sorterOut01.txt", "w") # open file, write
 lines = n.readlines()
 lines.sort()
 

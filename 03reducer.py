@@ -1,5 +1,5 @@
 s = open("sorterOut01.txt","r")
-r = open("r.txt", "w")
+r = open("reducerOut01.txt", "w")
 
 thisKey = ""
 thisValue = 0.0
