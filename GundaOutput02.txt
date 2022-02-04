@@ -1,0 +1,222 @@
+Afghanistan  	 691
+Albania  	 691
+Algeria  	 691
+Andorra  	 691
+Angola  	 691
+Anguilla  	 691
+Antigua And Barbuda  	 691
+Argentina  	 691
+Armenia  	 691
+Aruba  	 691
+Australia  	 691
+Austria  	 691
+Azerbaijan  	 691
+Bahamas  	 691
+Bahrain  	 691
+Bangladesh  	 691
+Barbados  	 691
+Belarus  	 691
+Belgium  	 691
+Belize  	 691
+Benin  	 691
+Bermuda  	 691
+Bhutan  	 691
+Bolivia  	 691
+Bosnia And Herzegovina  	 691
+Botswana  	 691
+Brazil  	 691
+British Virgin Islands  	 691
+Brunei Darussalam  	 691
+Bulgaria  	 691
+Burkina Faso  	 691
+Burundi  	 691
+Cabo Verde  	 691
+Cambodia  	 691
+Cameroon  	 691
+Canada  	 691
+Caribbean Netherlands  	 691
+Cayman Islands  	 691
+Central African Republic  	 691
+Chad  	 691
+Channel Islands  	 691
+Chile  	 691
+China  	 715
+China Hong Kong Sar  	 691
+China Macao Sar  	 691
+Colombia  	 691
+Comoros  	 691
+Congo  	 691
+Costa Rica  	 691
+Cote D Ivoire  	 691
+country  	 1
+Croatia  	 691
+Cuba  	 691
+Curacao  	 691
+Cyprus  	 691
+Czech Republic  	 691
+Democratic Republic Of The Congo  	 691
+Denmark  	 691
+Djibouti  	 691
+Dominica  	 691
+Dominican Republic  	 691
+Ecuador  	 691
+Egypt  	 691
+El Salvador  	 691
+Equatorial Guinea  	 691
+Eritrea  	 691
+Estonia  	 691
+Ethiopia  	 691
+Faeroe Islands  	 691
+Falkland Islands Malvinas  	 691
+Fiji  	 691
+Finland  	 691
+France  	 691
+French Guiana  	 691
+French Polynesia  	 691
+Gabon  	 691
+Gambia  	 691
+Georgia  	 691
+Germany  	 691
+Ghana  	 691
+Gibraltar  	 691
+Greece  	 691
+Greenland  	 691
+Grenada  	 691
+Guadeloupe  	 691
+Guatemala  	 691
+Guinea  	 691
+Guinea Bissau  	 691
+Guyana  	 691
+Haiti  	 691
+Holy See  	 691
+Honduras  	 691
+Hungary  	 691
+Iceland  	 691
+India  	 691
+Indonesia  	 691
+Iran  	 691
+Iraq  	 691
+Ireland  	 691
+Isle Of Man  	 691
+Israel  	 691
+Italy  	 691
+Jamaica  	 691
+Japan  	 691
+Jordan  	 691
+Kazakhstan  	 691
+Kenya  	 691
+Kuwait  	 691
+Kyrgyzstan  	 691
+Laos  	 691
+Latvia  	 691
+Lebanon  	 691
+Lesotho  	 691
+Liberia  	 691
+Libya  	 691
+Liechtenstein  	 691
+Lithuania  	 691
+Luxembourg  	 691
+Macedonia  	 691
+Madagascar  	 691
+Malawi  	 691
+Malaysia  	 691
+Maldives  	 691
+Mali  	 691
+Malta  	 691
+Marshall Islands  	 691
+Martinique  	 691
+Mauritania  	 691
+Mauritius  	 691
+Mayotte  	 691
+Mexico  	 691
+Micronesia  	 691
+Moldova  	 691
+Monaco  	 691
+Mongolia  	 691
+Montenegro  	 691
+Montserrat  	 691
+Morocco  	 691
+Mozambique  	 691
+Myanmar  	 691
+Namibia  	 691
+Nepal  	 691
+Netherlands  	 691
+New Caledonia  	 691
+New Zealand  	 691
+Nicaragua  	 691
+Niger  	 691
+Nigeria  	 691
+Norway  	 691
+Oman  	 691
+Pakistan  	 691
+Panama  	 691
+Papua New Guinea  	 691
+Paraguay  	 691
+Peru  	 691
+Philippines  	 691
+Poland  	 691
+Portugal  	 691
+Qatar  	 691
+Reunion  	 691
+Romania  	 691
+Russia  	 691
+Rwanda  	 691
+Saint Barthelemy  	 691
+Saint Helena  	 691
+Saint Kitts And Nevis  	 691
+Saint Lucia  	 691
+Saint Martin  	 691
+Saint Pierre And Miquelon  	 691
+Saint Vincent And The Grenadines  	 691
+Samoa  	 691
+San Marino  	 691
+Sao Tome And Principe  	 691
+Saudi Arabia  	 691
+Senegal  	 691
+Serbia  	 691
+Seychelles  	 691
+Sierra Leone  	 691
+Singapore  	 691
+Sint Maarten  	 691
+Slovakia  	 691
+Slovenia  	 691
+Solomon Islands  	 691
+Somalia  	 691
+South Africa  	 691
+South Korea  	 691
+South Sudan  	 691
+Spain  	 691
+Sri Lanka  	 691
+State Of Palestine  	 691
+Sudan  	 691
+Suriname  	 691
+Swaziland  	 691
+Sweden  	 691
+Switzerland  	 691
+Syria  	 691
+Taiwan  	 691
+Tajikistan  	 691
+Tanzania  	 691
+Thailand  	 691
+Timor Leste  	 691
+Togo  	 691
+Tonga  	 691
+Trinidad And Tobago  	 691
+Tunisia  	 691
+Turkey  	 691
+Turks And Caicos Islands  	 691
+Uganda  	 691
+UK  	 691
+Ukraine  	 691
+United Arab Emirates  	 691
+Uruguay  	 691
+USA  	 691
+Uzbekistan  	 691
+Vanuatu  	 691
+Venezuela  	 691
+Viet Nam  	 691
+Wallis And Futuna Islands  	 691
+Western Sahara  	 691
+Yemen  	 691
+Zambia  	 691
+Zimbabwe  	 691
