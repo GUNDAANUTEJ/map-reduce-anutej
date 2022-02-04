@@ -1,13 +1,8 @@
-f = open("purchases.txt","r")  # open file, read-only
-o = open("mapperOut01.txt", "w") # open file, write
+import sys
 
-for line in f:  
-    rowList = line.strip().split("    ")
-    # print (rowList )
-    # print (len(rowList ))
-    if len(rowList) == 6:
-        date, time, location, dept, amount, payType = rowList  #assign names
-        # print ("{0}\t{1}".format(location, amount))
-        o.write("{0}\t{1}\n".format(location, amount))
-f.close()
-o.close()
+for line in sys.stdin:  
+    dataList = line.strip().split(",") 
+    
+    if (len(dataList) == 6) :
+        country,cumulative_total_cases,daily_new_cases,active_cases,cumulative_total_deaths,daily_new_deaths = dataList 
+        print (country,"\t", cumulative_total_cases)
