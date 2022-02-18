@@ -12,5 +12,5 @@
 
 ### Chart :
 
-![image](https://user-images.githubusercontent.com/77635770/152580412-b3be09e7-408c-4049-b598-6ae4d752ddd5.png)
+![image](https://user-images.githubusercontent.com/77635770/154593644-501d648b-fbcd-45e1-b864-eb71e6d655d8.png)
 
